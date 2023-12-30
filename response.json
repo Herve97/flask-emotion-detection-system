@@ -1,0 +1,34 @@
+{
+  "emotionPredictions": [
+    {
+      "emotion": {
+        "anger": 0.01364663,
+        "disgust": 0.0017160787,
+        "fear": 0.008986978,
+        "joy": 0.9719017,
+        "sadness": 0.055187024
+      },
+      "target": "",
+      "emotionMentions": [
+        {
+          "span": {
+            "begin": 0,
+            "end": 27,
+            "text": "I love this new technology."
+          },
+          "emotion": {
+            "anger": 0.01364663,
+            "disgust": 0.0017160787,
+            "fear": 0.008986978,
+            "joy": 0.9719017,
+            "sadness": 0.055187024
+          }
+        }
+      ]
+    }
+  ],
+  "producerId": {
+    "name": "Ensemble Aggregated Emotion Workflow",
+    "version": "0.0.1"
+  }
+}
